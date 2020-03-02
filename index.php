@@ -7,7 +7,7 @@
 	<h1 align="center">Welcome to Administrator</h1>
 	<form method="post" action="proses_login.php" align="center"> 
 		Username <input type="text" name="username"><br> 
-		Masukan Password <input type="password" name="password"><br>
+		Pass <input type="password" name="password"><br>
 		<br>
 		<button type="submit", name="submit" value="">submit</button>
 	</form>
